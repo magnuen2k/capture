@@ -8,7 +8,7 @@ const FaqSection = () => {
                 <h4>How Do I Start?</h4>
                 <div className="answer">
                     <p>Lorem ipsum dolor sit amet. Lorem ipsum dolor
-                        sit amet, consectetur adipisicing elit. Nulla, suscipit?</p>
+                        sit amet, consectetur adipisicing elit. Nulla, suscipit!?</p>
                 </div>
             </div>
             <div className="question">
