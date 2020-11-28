@@ -22,6 +22,7 @@ const globalStyle =createGlobalStyle`
         color: white;
         transition: all 0.5s ease;
         font-family: "Inter", sans-serif;
+
         &:hover {
             background-color: #23d997;
             color: white;

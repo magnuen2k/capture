@@ -28,6 +28,7 @@ const ServicesSection = () => {
                             <h3>Teamwork</h3>
                         </div>
                         <p>Lorem ipsum dolor sit amet.</p>
+
                     </Card>
                     <Card>
                         <div className="icon">
