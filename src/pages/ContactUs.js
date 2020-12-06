@@ -1,6 +1,7 @@
 import React from "react";
 import {motion} from "framer-motion";
-import {pageAnimation} from "../animation";
+import styled from "styled-components";
+import {pageAnimation, titleAnim} from "../animation";
 
 const ContactUs = () => {
     return(
@@ -9,5 +10,6 @@ const ContactUs = () => {
         </motion.div>
     )
 }
+
 
 export default ContactUs;
